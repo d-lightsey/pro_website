@@ -156,12 +156,12 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootstrap4"
+THEME = "mytheme"
 
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
 # as an accent color (the default ones don’t). Must be a HEX value.
-THEME_COLOR = '#5670d4'
+# THEME_COLOR = '#5670d4'
 
 # Theme configuration. Fully theme-dependent. (translatable)
 # Samples for bootblog4 (enabled) and bootstrap4 (commented) follow.
@@ -189,17 +189,17 @@ THEME_COLOR = '#5670d4'
 #     }
 # }
 # Config for bootstrap4:
-THEME_CONFIG = {
-    DEFAULT_LANG: {
-        # Use a light navbar with dark text. Defaults to False.
-        'navbar_light': False,
-        # Use a custom navbar color. If unset, 'navbar_light' sets text +
-        # background color. If set, navbar_light controls only background
-        # color. Supported values: bg-dark, bg-light, bg-primary, bg-secondary,
-        # bg-success, bg-danger, bg-warning, bg-info, bg-white, bg-transparent.
-        'navbar_custom_bg': '',
-    }
-}
+# THEME_CONFIG = {
+#     DEFAULT_LANG: {
+#         # Use a light navbar with dark text. Defaults to False.
+#         'navbar_light': False,
+#         # Use a custom navbar color. If unset, 'navbar_light' sets text +
+#         # background color. If set, navbar_light controls only background
+#         # color. Supported values: bg-dark, bg-light, bg-primary, bg-secondary,
+#         # bg-success, bg-danger, bg-warning, bg-info, bg-white, bg-transparent.
+#         'navbar_custom_bg': '',
+#     }
+# }
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 # (translatable)
