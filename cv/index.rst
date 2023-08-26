@@ -7,9 +7,24 @@
 .. description: 
 .. type: text
 
-Please find my CV below.
+| 
+
+**Please find my CV below.**
 
 .. raw:: html 
 
    <a href="/files/Circulum_Vitae.pdf"> Download My CV Here</a>
 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+
+---- 
+
+| 
