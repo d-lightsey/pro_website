@@ -7,4 +7,10 @@
 .. description: 
 .. type: text
 
-Write your page here.
+| Department of Philosophy
+| 100 Malloy Hall 
+| University of Notre Dame
+| Notre Dame, Indiana 46556
+| Phone: 512-698-2994
+| Email: dlightse@nd.edu
+

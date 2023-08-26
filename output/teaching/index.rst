@@ -7,4 +7,4 @@
 .. description: 
 .. type: text
 
-Write your page here.
+No philosophy teaching experience *yet*.

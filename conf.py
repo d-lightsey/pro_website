@@ -149,7 +149,7 @@ NAVIGATION_LINKS = {
         ("/cv/index.html", "CV"),
         ("/research/index.html", "Research"),
         ("/teaching/index.html", "Teaching"),
-        ("/blog/", "Blog"),
+        # ("/blog/", "Blog"),
         ("/about-me/index.html", "About Me"),
         ("/contact/index.html", "Contact"),
     ),
@@ -163,7 +163,8 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "lanyon"
+# THEME = "lanyon"
+THEME = "bootstrap4"
 
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
@@ -300,7 +301,7 @@ TIMEZONE = "America/Indiana/Indianapolis"
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of {source: relative destination}.
 # Default is:
-# FILES_FOLDERS = {'files': ''}
+FILES_FOLDERS = {'files': 'files'}
 # Which means copy 'files' into 'output'
 
 # One or more folders containing code listings to be processed and published on
