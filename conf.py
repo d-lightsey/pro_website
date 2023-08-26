@@ -149,7 +149,7 @@ NAVIGATION_LINKS = {
         ("/cv/index.html", "CV"),
         ("/research/index.html", "Research"),
         ("/teaching/index.html", "Teaching"),
-        # ("/blog/", "Blog"),
+        ("/blog/", "Blog"),
         ("/about-me/index.html", "About Me"),
         ("/contact/index.html", "Contact"),
     ),
@@ -163,8 +163,8 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-# THEME = "lanyon"
-THEME = "bootstrap4"
+THEME = "lanyon"
+# THEME = "bootstrap4"
 
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
