@@ -7,4 +7,10 @@
 .. description: 
 .. type: text
 
-Write your page here.
+My research interests include the following:
+
+- Metaphysics, particularly theories of causation and modality 
+- Free Will, particularly agent-causal theories thereof
+- Philosophical Theology, particularly Freedom and Foreknowledge 
+
+
